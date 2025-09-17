@@ -48,6 +48,8 @@ p {
     align-items: center;
     color: white;
     text-align: center;
+    width: 100%;
+    overflow: hidden
 }
 
 .hero::before {
